@@ -53,6 +53,29 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 
 ## 📸 Screenshots
 
+### 🎯 Onboarding Flow
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="100%"/><br/>
+<b>Onboarding 1</b><br/>
+Welcome & Introduction
+</td>
+<td width="33%">
+<img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="100%"/><br/>
+<b>Onboarding 2</b><br/>
+Features Overview
+</td>
+<td width="33%">
+<img src="screenshots/onboarding_3.png" alt="Onboarding 3" width="100%"/><br/>
+<b>Onboarding 3</b><br/>
+Get Started
+</td>
+</tr>
+</table>
+</div>
+
 ### Authentication Flow
 <div align="center">
 <table>

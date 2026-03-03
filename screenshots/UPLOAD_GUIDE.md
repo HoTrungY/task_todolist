@@ -2,6 +2,11 @@
 
 ## Tên file cần upload vào thư mục này:
 
+### Onboarding Screens
+- `onboarding_1.png` - Màn hình chào mừng & giới thiệu
+- `onboarding_2.png` - Màn hình giới thiệu tính năng
+- `onboarding_3.png` - Màn hình bắt đầu
+
 ### Authentication Screens
 - `login.png` - Màn hình đăng nhập
 - `register.png` - Màn hình đăng ký
