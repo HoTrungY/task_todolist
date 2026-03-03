@@ -54,26 +54,95 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 ## 📸 Screenshots
 
 ### Authentication Flow
-- **Login Page** - Sign in with email and password
-- **Register Page** - Create new account with email verification
-- **Verification Code** - OTP validation for registration
-- **Forgot Password** - Password reset with OTP
-- **Create New Password** - Set new password securely
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<img src="screenshots/login.png" alt="Login" width="100%"/><br/>
+<b>Login Page</b><br/>
+Sign in with email & password
+</td>
+<td width="33%">
+<img src="screenshots/register.png" alt="Register" width="100%"/><br/>
+<b>Register Page</b><br/>
+Create account with email verification
+</td>
+<td width="33%">
+<img src="screenshots/verification.png" alt="Verification" width="100%"/><br/>
+<b>Verification Code</b><br/>
+OTP validation for registration
+</td>
+</tr>
+</table>
+</div>
 
-### Main Features
-| Feature | Description |
-|---------|-------------|
-| **All Tasks** | View all tasks, search & filter |
-| **Completed** | Manage completed items with quick overview |
-| **Uncompleted** | Track pending tasks and add new ones |
-| **Deleted** | Manage trash and restore deleted items |
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="screenshots/forgot_password.png" alt="Forgot Password" width="100%"/><br/>
+<b>Forgot Password</b><br/>
+Password reset with OTP
+</td>
+<td width="50%">
+<img src="screenshots/create_password.png" alt="Create Password" width="100%"/><br/>
+<b>Create New Password</b><br/>
+Set new password securely
+</td>
+</tr>
+</table>
+</div>
 
-### User Profile
-- **Profile Page** - View and edit user information
-- **Drawer Menu** - Quick access to features:
-  - My Profile
-  - Change Password
-  - Logout
+### Main Task Management
+<div align="center">
+<table>
+<tr>
+<td width="25%">
+<img src="screenshots/home_page.png" alt="All Tasks" width="100%"/><br/>
+<b>All Tasks</b><br/>
+View all tasks, search & filter
+</td>
+<td width="25%">
+<img src="screenshots/completed_page.png" alt="Completed" width="100%"/><br/>
+<b>Completed Tasks</b><br/>
+Manage completed items
+</td>
+<td width="25%">
+<img src="screenshots/uncompleted_page.png" alt="Uncompleted" width="100%"/><br/>
+<b>Uncompleted Tasks</b><br/>
+Track pending tasks
+</td>
+<td width="25%">
+<img src="screenshots/deleted_page.png" alt="Deleted" width="100%"/><br/>
+<b>Deleted Tasks</b><br/>
+Manage trash & restore
+</td>
+</tr>
+</table>
+</div>
+
+### User Profile & Navigation
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+<img src="screenshots/drawer_menu.png" alt="Drawer Menu" width="100%"/><br/>
+<b>Drawer Menu</b><br/>
+Quick access to all features
+</td>
+<td width="33%">
+<img src="screenshots/profile_page.png" alt="Profile" width="100%"/><br/>
+<b>My Profile</b><br/>
+View and edit user information
+</td>
+<td width="33%">
+<img src="screenshots/welcome_screen.png" alt="Welcome" width="100%"/><br/>
+<b>Welcome Screen</b><br/>
+User dashboard & greeting
+</td>
+</tr>
+</table>
+</div>
 
 ## 🚀 Getting Started
 
