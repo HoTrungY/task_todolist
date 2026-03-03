@@ -58,17 +58,17 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 <table>
 <tr>
 <td width="33%">
-<img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="100%"/><br/>
+<img src="screenshots/onboarding1.jpg" alt="Onboarding 1" width="100%"/><br/>
 <b>Onboarding 1</b><br/>
 Welcome & Introduction
 </td>
 <td width="33%">
-<img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="100%"/><br/>
+<img src="screenshots/onboarding2.jpg" alt="Onboarding 2" width="100%"/><br/>
 <b>Onboarding 2</b><br/>
 Features Overview
 </td>
 <td width="33%">
-<img src="screenshots/onboarding_3.png" alt="Onboarding 3" width="100%"/><br/>
+<img src="screenshots/onboarding3.jpg" alt="Onboarding 3" width="100%"/><br/>
 <b>Onboarding 3</b><br/>
 Get Started
 </td>
@@ -81,17 +81,17 @@ Get Started
 <table>
 <tr>
 <td width="33%">
-<img src="screenshots/login.png" alt="Login" width="100%"/><br/>
+<img src="screenshots/login_page.jpg" alt="Login" width="100%"/><br/>
 <b>Login Page</b><br/>
 Sign in with email & password
 </td>
 <td width="33%">
-<img src="screenshots/register.png" alt="Register" width="100%"/><br/>
+<img src="screenshots/register_page.jpg" alt="Register" width="100%"/><br/>
 <b>Register Page</b><br/>
 Create account with email verification
 </td>
 <td width="33%">
-<img src="screenshots/verification.png" alt="Verification" width="100%"/><br/>
+<img src="screenshots/forgot_passw.jpg" alt="Verification" width="100%"/><br/>
 <b>Verification Code</b><br/>
 OTP validation for registration
 </td>
@@ -121,22 +121,22 @@ Set new password securely
 <table>
 <tr>
 <td width="25%">
-<img src="screenshots/home_page.png" alt="All Tasks" width="100%"/><br/>
+<img src="screenshots/home_page.jpg" alt="All Tasks" width="100%"/><br/>
 <b>All Tasks</b><br/>
 View all tasks, search & filter
 </td>
 <td width="25%">
-<img src="screenshots/completed_page.png" alt="Completed" width="100%"/><br/>
+<img src="screenshots/completed_page.jpg" alt="Completed" width="100%"/><br/>
 <b>Completed Tasks</b><br/>
 Manage completed items
 </td>
 <td width="25%">
-<img src="screenshots/uncompleted_page.png" alt="Uncompleted" width="100%"/><br/>
+<img src="screenshots/uncompleted_page.jpg" alt="Uncompleted" width="100%"/><br/>
 <b>Uncompleted Tasks</b><br/>
 Track pending tasks
 </td>
 <td width="25%">
-<img src="screenshots/deleted_page.png" alt="Deleted" width="100%"/><br/>
+<img src="screenshots/deleted_page.jpg" alt="Deleted" width="100%"/><br/>
 <b>Deleted Tasks</b><br/>
 Manage trash & restore
 </td>
