@@ -53,97 +53,15 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 
 ## 📸 Screenshots
 
-### 🎯 Onboarding Flow
-<div align="center">
-<table>
-<tr>
-<td width="33%">
-<img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="100%"/><br/>
-<b>Onboarding 1</b><br/>
-Welcome & Introduction
-</td>
-<td width="33%">
-<img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="100%"/><br/>
-<b>Onboarding 2</b><br/>
-Features Overview
-</td>
-<td width="33%">
-<img src="screenshots/onboarding_3.png" alt="Onboarding 3" width="100%"/><br/>
-<b>Onboarding 3</b><br/>
-Get Started
-</td>
-</tr>
-</table>
-</div>
+The app features a modern, intuitive interface with:
 
-### Authentication Flow
-<div align="center">
-<table>
-<tr>
-<td width="33%">
-<img src="screenshots/login.jpg" alt="Login" width="100%"/><br/>
-<b>Login Page</b><br/>
-Sign in with email & password
-</td>
-<td width="33%">
-<img src="screenshots/register.jpg" alt="Register" width="100%"/><br/>
-<b>Register Page</b><br/>
-Create account with email verification
-</td>
-<td width="33%">
-<img src="screenshots/forgot_password.jpg" alt="Forgot Password" width="100%"/><br/>
-<b>Forgot Password</b><br/>
-Password reset with OTP
-</td>
-</tr>
-</table>
-</div>
+- **🎪 Onboarding Flow**: Introduction screens for new users
+- **🔐 Authentication Screens**: Login, Register, and Password Recovery
+- **📋 Task Management Views**: All Tasks, Completed, Uncompleted, and Deleted items
+- **👤 User Profile & Navigation**: Profile management and drawer menu
+- **🎨 Modern UI**: Material Design with smooth animations and transitions
 
-### Main Task Management
-<div align="center">
-<table>
-<tr>
-<td width="25%">
-<img src="screenshots/home_page.jpg" alt="All Tasks" width="100%"/><br/>
-<b>All Tasks</b><br/>
-View all tasks, search & filter
-</td>
-<td width="25%">
-<img src="screenshots/completed_page.jpg" alt="Completed" width="100%"/><br/>
-<b>Completed Tasks</b><br/>
-Manage completed items
-</td>
-<td width="25%">
-<img src="screenshots/uncompleted_page.jpg" alt="Uncompleted" width="100%"/><br/>
-<b>Uncompleted Tasks</b><br/>
-Track pending tasks
-</td>
-<td width="25%">
-<img src="screenshots/deleted_page.jpg" alt="Deleted" width="100%"/><br/>
-<b>Deleted Tasks</b><br/>
-Manage trash & restore
-</td>
-</tr>
-</table>
-</div>
-
-### User Profile & Navigation
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="screenshots/drawer_menu.jpg" alt="Drawer Menu" width="100%"/><br/>
-<b>Drawer Menu</b><br/>
-Quick access to all features
-</td>
-<td width="50%">
-<img src="screenshots/home_page.jpg" alt="Home" width="100%"/><br/>
-<b>Home Screen</b><br/>
-Main task dashboard
-</td>
-</tr>
-</table>
-</div>
+> *Screenshots can be added to the `screenshots/` folder. See [UPLOAD_GUIDE.md](screenshots/UPLOAD_GUIDE.md) for instructions.*
 
 ## 🚀 Getting Started
 
