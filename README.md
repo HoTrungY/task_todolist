@@ -58,17 +58,17 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 <table>
 <tr>
 <td width="33%">
-<img src="screenshots/onboarding1.jpg" alt="Onboarding 1" width="100%"/><br/>
+<img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="100%"/><br/>
 <b>Onboarding 1</b><br/>
 Welcome & Introduction
 </td>
 <td width="33%">
-<img src="screenshots/onboarding2.jpg" alt="Onboarding 2" width="100%"/><br/>
+<img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="100%"/><br/>
 <b>Onboarding 2</b><br/>
 Features Overview
 </td>
 <td width="33%">
-<img src="screenshots/onboarding3.jpg" alt="Onboarding 3" width="100%"/><br/>
+<img src="screenshots/onboarding_3.png" alt="Onboarding 3" width="100%"/><br/>
 <b>Onboarding 3</b><br/>
 Get Started
 </td>
@@ -81,36 +81,19 @@ Get Started
 <table>
 <tr>
 <td width="33%">
-<img src="screenshots/login_page.jpg" alt="Login" width="100%"/><br/>
+<img src="screenshots/login.jpg" alt="Login" width="100%"/><br/>
 <b>Login Page</b><br/>
 Sign in with email & password
 </td>
 <td width="33%">
-<img src="screenshots/register_page.jpg" alt="Register" width="100%"/><br/>
+<img src="screenshots/register.jpg" alt="Register" width="100%"/><br/>
 <b>Register Page</b><br/>
 Create account with email verification
 </td>
 <td width="33%">
-<img src="screenshots/forgot_passw.jpg" alt="Verification" width="100%"/><br/>
-<b>Verification Code</b><br/>
-OTP validation for registration
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="screenshots/forgot_password.png" alt="Forgot Password" width="100%"/><br/>
+<img src="screenshots/forgot_password.jpg" alt="Forgot Password" width="100%"/><br/>
 <b>Forgot Password</b><br/>
 Password reset with OTP
-</td>
-<td width="50%">
-<img src="screenshots/create_password.png" alt="Create Password" width="100%"/><br/>
-<b>Create New Password</b><br/>
-Set new password securely
 </td>
 </tr>
 </table>
@@ -148,20 +131,15 @@ Manage trash & restore
 <div align="center">
 <table>
 <tr>
-<td width="33%">
-<img src="screenshots/drawer_menu.png" alt="Drawer Menu" width="100%"/><br/>
+<td width="50%">
+<img src="screenshots/drawer_menu.jpg" alt="Drawer Menu" width="100%"/><br/>
 <b>Drawer Menu</b><br/>
 Quick access to all features
 </td>
-<td width="33%">
-<img src="screenshots/profile_page.png" alt="Profile" width="100%"/><br/>
-<b>My Profile</b><br/>
-View and edit user information
-</td>
-<td width="33%">
-<img src="screenshots/welcome_screen.png" alt="Welcome" width="100%"/><br/>
-<b>Welcome Screen</b><br/>
-User dashboard & greeting
+<td width="50%">
+<img src="screenshots/home_page.jpg" alt="Home" width="100%"/><br/>
+<b>Home Screen</b><br/>
+Main task dashboard
 </td>
 </tr>
 </table>
