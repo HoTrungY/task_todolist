@@ -53,15 +53,58 @@ A modern, feature-rich Flutter application for managing tasks efficiently with b
 
 ## 📸 Screenshots
 
-The app features a modern, intuitive interface with:
+The app features a modern, intuitive interface with beautiful UI design and smooth interactions.
 
-- **🎪 Onboarding Flow**: Introduction screens for new users
-- **🔐 Authentication Screens**: Login, Register, and Password Recovery
-- **📋 Task Management Views**: All Tasks, Completed, Uncompleted, and Deleted items
-- **👤 User Profile & Navigation**: Profile management and drawer menu
-- **🎨 Modern UI**: Material Design with smooth animations and transitions
+### 🎪 Onboarding Flow
+<table>
+  <tr>
+    <td><img src="./screenshots/onboarding1.jpg" width="200" alt="Onboarding 1"/></td>
+    <td><img src="./screenshots/onboarding2.jpg" width="200" alt="Onboarding 2"/></td>
+    <td><img src="./screenshots/onboarding3.jpg" width="200" alt="Onboarding 3"/></td>
+  </tr>
+</table>
 
-> *Screenshots can be added to the `screenshots/` folder. See [UPLOAD_GUIDE.md](screenshots/UPLOAD_GUIDE.md) for instructions.*
+### 🔐 Authentication Screens
+<table>
+  <tr>
+    <td><img src="./screenshots/login_page.jpg" width="200" alt="Login Page"/></td>
+    <td><img src="./screenshots/register_page.jpg" width="200" alt="Register Page"/></td>
+    <td><img src="./screenshots/forgot_passw.jpg" width="200" alt="Forgot Password"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Login</sub></td>
+    <td align="center"><sub>Register</sub></td>
+    <td align="center"><sub>Password Reset</sub></td>
+  </tr>
+</table>
+
+### 📋 Task Management Views
+<table>
+  <tr>
+    <td><img src="./screenshots/home_page.jpg" width="200" alt="Home Page"/></td>
+    <td><img src="./screenshots/completed_page.jpg" width="200" alt="Completed Tasks"/></td>
+    <td><img src="./screenshots/uncompleted_page.jpg" width="200" alt="Uncompleted Tasks"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>All Tasks</sub></td>
+    <td align="center"><sub>Completed</sub></td>
+    <td align="center"><sub>Uncompleted</sub></td>
+  </tr>
+</table>
+
+### 👤 Additional Features
+<table>
+  <tr>
+    <td><img src="./screenshots/deleted_page.jpg" width="200" alt="Deleted Tasks"/></td>
+    <td><img src="./screenshots/create_pass.jpg" width="200" alt="Create Password"/></td>
+    <td><img src="./screenshots/drawer_menu.jpg" width="200" alt="Drawer Menu"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Deleted Tasks</sub></td>
+    <td align="center"><sub>Create Password</sub></td>
+    <td align="center"><sub>Navigation Menu</sub></td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
